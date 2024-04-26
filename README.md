@@ -2,6 +2,10 @@
 
 This is a simple To-Do List application built using React. It allows users to add tasks, mark them as completed, and delete them.
 
+## Screenshots
+
+![Main Page](src/projectlook.png)
+
 ## Contact
 
 Daria Ignateva -destowq@gmail.com
@@ -47,8 +51,8 @@ Project Link: [https://github.com/dorpanz/ToDoList.git](https://github.com/dorpa
 
 Contributions are welcome! Feel free to open an issue or submit a pull request if you find any bugs or want to suggest improvements.
 
-## Screenshots
 
-![Main Page](src/projectlook.png)
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
