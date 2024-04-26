@@ -8,6 +8,7 @@
 <body>
     <h1>React To-Do List</h1>
     <p>This is a simple To-Do List application built using React. It allows users to add tasks, mark them as completed, and delete them.</p>
+    <img src="./projectlook.png" alt="Project" width="100%" />
     <h2>Features</h2>
     <ul>
         <li>Add tasks: Users can add new tasks by typing them into the input field and clicking the "ADD" button.</li>
