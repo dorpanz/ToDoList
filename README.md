@@ -34,6 +34,9 @@ This is a simple To-Do List application built using React. It allows users to ad
 - React DOM: Provides DOM-specific methods that can be used at the top level of the application.
 - React Scripts: Configuration and scripts for Create React App.
 
+### Built With
+* [![React][React.js]][React-url]
+
 ## Contributing
 
 Contributions are welcome! Feel free to open an issue or submit a pull request if you find any bugs or want to suggest improvements.
