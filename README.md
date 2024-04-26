@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>React To-Do List</title>
-</head>
+
 <body>
     <h1>React To-Do List</h1>
     <p>This is a simple To-Do List application built using React. It allows users to add tasks, mark them as completed, and delete them.</p>
@@ -18,21 +12,15 @@
     <h2>Usage</h2>
     <ol>
         <li>Clone the repository to your local machine:</li>
-        <code>git clone https://github.com/your-username/react-todo-list.git</code>
+        <code>git clone https://github.com/dorpanz/ToDoList.git</code>
         <li>Navigate to the project directory:</li>
-        <code>cd react-todo-list</code>
+        <code>cd react ToDoList</code>
         <li>Install dependencies:</li>
         <code>npm install</code>
         <li>Run the development server:</li>
         <code>npm start</code>
         <li>Open your web browser and go to <a href="http://localhost:3000">http://localhost:3000</a> to view the application.</li>
     </ol>
-    <h2>Project Structure</h2>
-    <ul>
-        <li><code>src/components/Todolist.js</code>: The main component of the To-Do List application.</li>
-        <li><code>src/listformat.png</code>: Image used for list items.</li>
-        <li><code>src/check.png</code>: Image used for completed tasks.</li>
-    </ul>
     <h2>Dependencies</h2>
     <ul>
         <li>React: JavaScript library for building user interfaces.</li>
