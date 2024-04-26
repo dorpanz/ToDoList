@@ -47,9 +47,15 @@ Project Link: [https://github.com/dorpanz/ToDoList.git](https://github.com/dorpa
 ### Built With
 * [![React][React.js]][React-url]
 
-## Contributing
+### Future Plans
 
-Contributions are welcome! Feel free to open an issue or submit a pull request if you find any bugs or want to suggest improvements.
+In future iterations of the To-Do List application, the following features are planned to be added:
+
+- **Edit tasks:** Users will have the ability to edit existing tasks, allowing them to modify task names and due dates.
+- **Date picker:** A date picker component will be integrated into the application, enabling users to specify due dates and times for their tasks.
+
+Stay tuned for updates as we continue to enhance the functionality of the To-Do List application!
+
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
