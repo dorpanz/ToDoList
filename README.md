@@ -1,16 +1,12 @@
-### Built With
+# React To-Do List
 
-* [![React][React.js]][React-url]
+This is a simple To-Do List application built using React. It allows users to add tasks, mark them as completed, and delete them.
 
 ## Contact
 
 Daria Ignateva -destowq@gmail.com
 
 Project Link: [https://github.com/dorpanz/ToDoList.git](https://github.com/dorpanz/ToDoList.git)
-
-# React To-Do List
-
-This is a simple To-Do List application built using React. It allows users to add tasks, mark them as completed, and delete them.
 
 ## Features
 
@@ -54,3 +50,5 @@ Contributions are welcome! Feel free to open an issue or submit a pull request i
 ## Screenshots
 
 ![Main Page](src/projectlook.png)
+[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[React-url]: https://reactjs.org/
